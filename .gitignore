@@ -1,0 +1,9 @@
+.env
+.env.*
+*.xlsx
+*.xls
+*.csv
+private-data/
+secrets/
+tanks.json
+*.token
